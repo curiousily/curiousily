@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, I am Venelin. wave Thanks for stopping by!
+Hey, I am Venelin. Thanks for stopping by!
 
 I am from an awesome little country called Bulgaria.
 
