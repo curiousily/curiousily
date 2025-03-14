@@ -8,7 +8,8 @@ I work as a full-time Machine Learning engineer and write tutorials on basic and
 
 You can:
 
-- 📖  Read some of [my tutorials](https://curiousily.com/) 
+- 💬  Join the [Discord channel](https://discord.gg/UaNPxVD6tv)
+- 📖  Read some of [my tutorials](https://www.mlexpert.io/blog) 
 - 🍿  Subscribe to [my YouTube channel](http://bit.ly/venelin-subscribe)
 - ⏳  Prepare for the Machine Learning Interview with [MLExpert](https://mlexpert.io/)
 - ❤️  [Sponsor me on GitHub](https://github.com/sponsors/curiousily)
